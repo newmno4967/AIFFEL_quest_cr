@@ -44,7 +44,7 @@ AIFFEL_quest_cr
 │   └── Py04
 │        ├── .ipynb
 │        └── README.md
-├── Fluttet
+├── Flutter
 │   ├── Fl01
 │   │   ├── .ipynb
 │   │   └── README.md
