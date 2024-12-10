@@ -1,5 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 김민상이지선리뷰어의 이름을 작성하세요.
+- 코더 : 김민상
+- 리뷰어 : 이지선  
 
 
 # PRT(Peer Review Template)
